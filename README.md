@@ -2,6 +2,7 @@ TeamSpeak 3 Ranking Bot 2.0.6
 ---------------------------------------------
 
 Inhalte:
+
 	1. Infoblatt
 	2. Voraussetzungen
 	3. Starten unter Windows
