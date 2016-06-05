@@ -1,6 +1,8 @@
 TeamSpeak 3 Ranking Bot 2.0.6
 ---------------------------------------------
 
+[![Join the chat at https://gitter.im/Captaln/TeamSpeak3RankingBot](https://badges.gitter.im/Captaln/TeamSpeak3RankingBot.svg)](https://gitter.im/Captaln/TeamSpeak3RankingBot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Inhalte:
 
 	1. Infoblatt
