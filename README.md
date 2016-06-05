@@ -13,7 +13,7 @@ Inhalte:
 
 ---------------------
 
-1. Infoblatt:
+1 Infoblatt:
 
 TeamSpeak 3 Ranking Bot erstellt ein Ranking von aktiven Clients auf dem TeamSpeak 3 Server.
 
@@ -36,7 +36,7 @@ TeamSpeak 3 Ranking Bot ist momentan eine freie Software die auf Java basiert. E
 
 ---------------------
 
-2. Voraussetzungen:
+2 Voraussetzungen:
 
   - einen MySQL Server
   - eine MySQL Datenbank für den Bot
@@ -49,7 +49,7 @@ TeamSpeak 3 Ranking Bot ist momentan eine freie Software die auf Java basiert. E
 
 ---------------------
 
-3. Starten unter Windows:
+3 Starten unter Windows:
   - erstellen einer batch Datei
   - Inhalt: 
 	"C:\Pfad\zur\Java\Exe\java.exe" -jar [NAME DER DATEI].jar
@@ -57,7 +57,7 @@ TeamSpeak 3 Ranking Bot ist momentan eine freie Software die auf Java basiert. E
 
 ---------------------
 	
-4. Starten unter Linux
+4 Starten unter Linux
   - empfehlenswert Putty zu verwenden
   - Installation von screen um den Bot auch im Hintergrund zu starten
   - Befehl zum starten:
@@ -65,7 +65,7 @@ TeamSpeak 3 Ranking Bot ist momentan eine freie Software die auf Java basiert. E
 
 ---------------------
 
-5. Fehler aufgetreten?
+5 Fehler aufgetreten?
 
   - Schicken Sie mir beide log Dateien
 	- per E-Mail an: captainbozz95@gmail.com
@@ -73,13 +73,13 @@ TeamSpeak 3 Ranking Bot ist momentan eine freie Software die auf Java basiert. E
 	      sonst kann es dauern bis auf die Nachricht geantwortet wird
 	- PN in elitePvPers : xCaptain
 
-6. Hilfe zur Findung von Channel IDs?
+6 Hilfe zur Findung von Channel IDs?
 
   - Dieses Addon gibt hinter dem Channelnamen die Channel ID an
 	http://addons.teamspeak.com/directory/addon/result/Extended-Client-Info.html
 
 ---------------------
 
-7. Feedback gerne in diesem Thread: 
+7 Feedback gerne in diesem Thread: 
 
 http://www.elitepvpers.com/forum/freebies/4064915-teamspeak-3-ranking-bot.html#post34504198
